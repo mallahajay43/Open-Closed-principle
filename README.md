@@ -8,3 +8,5 @@ We should write code in such way that if further any changes or updataion requir
 
 ### "C" - Closed for Modification. 
 Avoid modification in the code that changes application existing feature
+
+Open Closed principle can be achieved using abstraction class. 
